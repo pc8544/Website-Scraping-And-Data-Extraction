@@ -113,9 +113,9 @@ public class MainFrame extends javax.swing.JFrame {
         jTextArea1.setRows(5);
         jScrollPane1.setViewportView(jTextArea1);
 
-        jLabel1.setText("Sitemap XML");
+        jLabel1.setText("Extract Data");
 
-        jButton2.setText("Generate Sitemap");
+        jButton2.setText("Generate CSV");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);
