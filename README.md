@@ -13,3 +13,12 @@ crawling and structured data extraction. It handles API interactions for initiat
 - 📦 Save results locally in CSV format.
 
 ---
+
+## ▶️ How to Download and Run the `.jar` File
+
+### 📥 Step 1: Download
+
+1. Go to the [`main` branch](https://github.com/pc8544/Website-Scraping-And-Data-Extraction/tree/main)
+2. Locate and download the `.jar` file (e.g. `ScrapingDemo-1.0.jar`)
+
+### 🏃‍♂️ Step 2: Run It
