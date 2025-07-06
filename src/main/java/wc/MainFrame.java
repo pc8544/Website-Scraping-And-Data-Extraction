@@ -313,7 +313,7 @@ public class MainFrame extends javax.swing.JFrame {
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {
         // TODO add your handling code here:
-        System.out.println("Create sitemap button clicked");
+        System.out.println("Create CSV button clicked");
         System.out.println("List Size::" + lst.size());
         try (PrintWriter writer = new PrintWriter("WebsiteCrawler_scraping_demo.csv")) {
             writer.println("URL, Text Content"); // header
